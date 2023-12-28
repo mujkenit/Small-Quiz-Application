@@ -55,7 +55,7 @@
                 "question": "Does an object created with a copy constructor reference the same memory location that the original object references?",
                 "options": ["yes", "no"],
                 "answer": "no",
-                "difficulty": "advanced"   
+                "difficulty": "starter"   
             },
 
             {

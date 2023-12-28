@@ -1,0 +1,77 @@
+{
+    "Quiz": {
+        "name": "Java Quiz",
+        "questions": [
+            {
+                "question": "UML is a graphical language that is used for designing and documenting software created within which framework?",
+                "options": ["Top-Down Programming", "Bottom-Up Programming", "Structured Programming", "Object-Oriented Programming"],
+                "answer": "Object-Oriented Programming",
+                "difficulty": "starter"
+            },
+
+            {
+                "question": "A static variable is one that can be used with which of the following?",
+                "options": ["Instance Variable", "Local Variable", "Global Variable", "The class name as a calling object"],
+                "answer": "Global Variable",
+                "difficulty": "starter"
+            },
+
+            {
+                "question": "The new operator does what?",
+                "options": ["Allocates Memory", "-is used to create an object of a class", "-associates an object with a variable that names it", "All of the above"],
+                "answer": "All of the above",
+                "difficulty": "starter"
+            },
+            
+            {
+                "question": "How many parameters does a Copy-Constructor have?",
+                "options": ["Zero Parameters", "Three Parameters", "Two Parameters", "One Parameter"],
+                "answer": "Zero Parameters",
+                "difficulty": "advanced"
+            },
+
+            {
+                "question": "While creating an UML notation, the first section of the UML contains what?",
+                "options": ["Class Members", "Class Methods", "Class Name", "Class Pattern"],
+                "answer": "Class Name",
+                "difficulty": "advanced"
+            },
+
+            {
+                "question": "_______ refers to an ability to associate many meanings to one method name by the means of late binding mechanism.",
+                "options": ["Inheritance", "Polymorphism", "Encapsulation", "None of above"],
+                "answer": "Polymorphism",
+                "difficulty": "advanced"
+            },
+
+            {
+                "question": "Node in linked-based implementation contains:",
+                "options": ["data portion", "reference", "both", "None of above"],
+                "answer": "both",
+                "difficulty": "starter"   
+            },
+
+            {
+                "question": "Does an object created with a copy constructor reference the same memory location that the original object references?",
+                "options": ["yes", "no"],
+                "answer": "no",
+                "difficulty": "advanced"   
+            },
+
+            {
+                "question": "In Java, method overriding occurs when a __________ has the same method as the ______",
+                "options": ["sub class-parent class", "inherited class-base class", "descendant class-ancestor class", "none of the above"],
+                "answer": "sub class-parent class",
+                "difficulty": "advanced"  
+            },
+
+            {
+                "question": "Exception handling is a programming methodology called ________.",
+                "options": ["OOP - Object Oriented Programming", "event-driven programming"],
+                "answer": "OOP - Object Oriented Programming",
+                "difficulty": "advanced"  
+            }
+        ]
+    }
+}
+
